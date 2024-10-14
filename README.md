@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! ✨ I am Rakesh
 👋 Hi there! I’m Rakesh Bhadake, a BE student in Computer Science and Engineering at JSSATEB.<br>I’m passionate about programming and technology.<br>You can reach out to me at rakeshbhadake185@gmail.com.<br>Check out all my projects on GitHub<br>Feel free to ask me anything about programming!
 
 
